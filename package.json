@@ -1,0 +1,23 @@
+{
+  "name": "do-not-shift",
+  "version": "0.0.1",
+  "description": "dafont",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dgrammatiko/do-not-shift.git"
+  },
+  "author": "Dimitris Grammatikogiannis",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dgrammatiko/do-not-shift/issues"
+  },
+  "homepage": "https://github.com/dgrammatiko/do-not-shift#readme",
+  "dependencies": {
+    "clipboard": "^2.0.6",
+    "uhtml": "^1.9.0"
+  }
+}
